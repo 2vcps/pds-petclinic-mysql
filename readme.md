@@ -29,4 +29,4 @@ This will setup the services and secret for Petclinic to connect to MySQL.
 1. paste the api service loadbalancer into your browswer. For example `a93d12935c58946aeb3a23ad695809e7-2072184173.us-west-2.elb.amazonaws.com` **NOTE** This is an external LB and exposed to the internets. DO NOT Leave this up for too long as unathenticated apps like Petclinic are a perfect target of bad guys.
 2. view and create data.
 3. view the metrics in PDS.
-4. Do failover/DR demos if you wish.
+4. Do PX ENTERPRISE failover/DR demos if you wish.
